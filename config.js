@@ -58,7 +58,7 @@ global.textbot = 'ᑕᗩᑎᘔᑌᑌ-ᗷOT • Powered By ⁱᵃᵐ|༒𝑨𝒏�
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = 'Yenes'
+global.moneda = 'almas'
 global.welcom1 = 'Edita Con #setwelcome'
 global.goodbye = 'Edita Con #setbye'
 global.banner = 'https://tinyurl.com/27d7rnhu'
