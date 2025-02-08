@@ -1,7 +1,7 @@
 {
-"name": "Yuki_Suou-Bot",
+"name": "Canzuu-Bot",
 "version": "2.2.0",
-"description": "Super WhatsApp Bot Multi Device",
+"description": "Super WhatsApp Bot Multi Angel",
 "main": "index.js",
 "type": "module",
 "directories": {
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/The-King-Destroy/Yuki_Suou-Bot",
+"homepage": "https://github.com/The-King-Angel/Canzuu-Bot",
 "author": {
-"name": "The-King-Destroy"
+"name": "The-King-Angel"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/The-King-Destroy/Yuki_Suou-Bot.git"
+"url": "git+https://github.com/The-King-Angel/Canzuu-Bot.git"
 },
 "bugs": {
-"url": "https://github.com/The-King-Destroy/Yuki_Suou-Bot/issues"
+"url": "https://github.com/The-King-Angel/Canzuu-Bot/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
