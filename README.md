@@ -1,6 +1,6 @@
 <h1 align="center">✦ Canzuu-Bot ✦</h1>
 
- <img src=  "content://media/external/downloads/1000990074"></p>
+ <img src=  "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdepor.com%2Fresizer%2Fv2%2FPY5Y7JWQYVALHM6MGVH2F2YNPQ.jpg%3Fauth%3Db4d89474d6c8dd0b0e3147994b1644a27e4443d08098c5fdbd3feb159a0ac6b6%26width%3D620%26quality%3D75%26smart%3Dtrue&tbnid=564-OCWYV0WqSM&vet=1&imgrefurl=https%3A%2F%2Fdepor.com%2Fusa%2Ffama-usa%2Fcanserbero-conoce-las-10-mejores-canciones-del-rapero-venezolano-nnda-nnlt-noticia%2F&docid=tHtgh-jVN_0K1M&w=620&h=465&source=sh%2Fx%2Fim%2Fm1%2F0&kgs=1813152e2047bf8f"></p>
 
 ### **`❕️ Información importante`**
 
