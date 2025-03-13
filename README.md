@@ -1,6 +1,6 @@
 <h1 align="center">✦ Canzuu-Bot ✦</h1>
 
- <img src=  "https://www.google.com/imgres?imgurl=https%3A%2F%2Fdepor.com%2Fresizer%2"></p>
+ <img src=  "https://www.google.com/imgres?"></p>
 
 ### **`❕️ Información importante`**
 
