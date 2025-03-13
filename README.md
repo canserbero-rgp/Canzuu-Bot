@@ -1,6 +1,6 @@
 <h1 align="center">✦ Canzuu-Bot ✦</h1>
 
- <img src=  "content://media/external/downloads/1000990074">  </p>
+ <img src=  "content://media/external/downloads/1000990074"></p>
 
 ### **`❕️ Información importante`**
 
