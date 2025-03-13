@@ -1,6 +1,6 @@
 <h1 align="center">✦ Canzuu-Bot ✦</h1>
 
- <img src=  "https://www.google.com/imgres?"></p>
+ <img src=  "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi1.sndcdn.com%2Favatars-000259070372-ocds2t-t240x240.jpg&tbnid=edDE57O7wDzPsM&vet=1&imgrefurl=https%3A%2F%2Fsoundcloud.com%2Fcanserbero-hxc&docid=9DRGo6o5CWcQyM&w=240&h=240&source=sh%2Fx%2Fim%2Fm1%2F0&kgs=a73a53d792595623"></p>
 
 ### **`❕️ Información importante`**
 
