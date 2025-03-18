@@ -8,31 +8,31 @@ let staff = `✨ *EQUIPO DE AYUDANTES* ✨
 
 🪐 *Creador:*
 
-☁️ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜
+👑 Ángel
 🔖 *Rol:* Creador
-👾 *GitHub:* https://github.com/The-King-Destroy
+👾 wa.me/50368471855
 
 🍃 *Colaboradores:*
 
-🫧 𝓔𝓶𝓶𝓪 𝓥𝓲𝓸𝓵𝓮𝓽𝓼 𝓥𝓮𝓻𝓼𝓲ó𝓷 
-🔖 *Rol:* Developer
-👾 *GitHub:* https://github.com/Elpapiema
+🌟 seishiro nagi
+🔖 *Rol:* mod
+👾  wa.me/51920227615
 
-🍍 Niño Piña
-🔖 *Rol:* Developer
-👾 *GitHub:* https://github.com/WillZek
+🌟 
+🔖 *Rol:* mod
+👾 wa.me/
 
-⚡ ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆
-🔖 *Rol:* Developer
-👾 *GitHub:* https://github.com/Diomar-s
+🌟 
+🔖 *Rol:* mod
+👾 wa.me/
 
-☘️ I'm Fz' (Tesis)
-🔖 *Rol:* Developer
-👾 *GitHub:* https://github.com/FzTeis
+🌟 
+🔖 *Rol:* mod
+👾 wa.me/
 
-🌪️ 𝓛𝓮𝓰𝓷𝓪
-🔖 *Rol:* Moderador 
-👾 *GitHub:* https://github.com/Legna-chan
+🌟 
+🔖 *Rol:* mod ml
+👾 wa.me/
 `
 await conn.sendFile(m.chat, img, 'yuki.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
