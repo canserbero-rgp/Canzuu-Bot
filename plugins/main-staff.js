@@ -12,7 +12,7 @@ let staff = `✨ *EQUIPO DE AYUDANTES* ✨
 🔖 *Rol:* Creador
 👾 wa.me/50368471855
 
-🍃 *Colaboradores:*
+🍃 *mods:*
 
 🌟 seishiro nagi
 🔖 *Rol:* mod
