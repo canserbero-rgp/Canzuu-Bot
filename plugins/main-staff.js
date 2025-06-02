@@ -14,9 +14,9 @@ let staff = `✨ *EQUIPO DE AYUDANTES* ✨
 
 🍃 *mods:*
 
-🌟 seishiro nagi
+🌟 
 🔖 *Rol:* mod
-👾  wa.me/51920227615
+👾  wa.me/
 
 🌟 
 🔖 *Rol:* mod
@@ -34,7 +34,7 @@ let staff = `✨ *EQUIPO DE AYUDANTES* ✨
 🔖 *Rol:* mod ml
 👾 wa.me/
 `
-await conn.sendFile(m.chat, img, 'yuki.jpg', staff.trim(), fkontak, true, {
+await conn.sendFile(m.chat, img, 'Luffy.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
 'forwardingScore': 200,
 'isForwarded': false,
